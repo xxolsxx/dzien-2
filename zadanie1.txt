@@ -1,0 +1,5 @@
+Imię :Ola
+Nazwisko: Ola
+Rok urodzenia: 2004
+Wiek: 22
+PESEL: nie wygenerowano
